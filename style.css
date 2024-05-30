@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+}
+body{
+    background-color: #17252a;
+    
+}
+button{
+    height: 60px;
+    width: 250px;
+    background-color: transparent;
+    border-color: rgba(255,255,255,.5);
+    color: #fff;
+    font-size: 25px;
+    margin-top: 150px;
+    margin-left: 40%;
+    border-radius: 10px;
+}
+button:hover{
+    box-shadow: 0 0 5px skyblue, 0 0 5px skyblue,0 0 5px skyblue, 0 0 5px skyblue;
+    border: none;
+    color: blue;
+}
